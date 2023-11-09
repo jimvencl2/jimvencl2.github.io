@@ -3,6 +3,12 @@ p {
     font-size: 28px;
     accent-color: blue;
 }
-.container {
+/*  Flex box is rsponsive and mobile friendly and easy to position flex children */
+.container {   
     display: flex;
+    flex-direction: row;
+}
+
+.container2 {
+    display: grid;
 }
