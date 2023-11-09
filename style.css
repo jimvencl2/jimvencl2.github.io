@@ -3,3 +3,6 @@ p {
     font-size: 28px;
     accent-color: blue;
 }
+.container {
+    display: flex;
+}
